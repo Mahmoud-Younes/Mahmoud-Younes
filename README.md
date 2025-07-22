@@ -34,6 +34,23 @@
 
 ---
 
+### 🚀 Projects & Hands-on Experience
+
+-   **Comprehensive Flutter Applications:** Developed various mobile applications from scratch, following a step-by-step approach under the guidance of **Eng. Abdullah Mansour**. This included understanding and implementing core concepts effectively.
+-   **Flutter Fundamentals:** Solid foundation in Flutter basics and core principles, acquired through practical application with **Eng. Tharwat Samy**.
+-   **Advanced Topics & Specific Modules:** Explored and implemented advanced Flutter concepts and specific modules, deepening my knowledge and skills with **Eng. Tharwat Samy**.
+-   **Bloc & API Integration Project:** Successfully completed two projects focusing on **Bloc state management and API integration** with **Omar Ahmed**. Currently, I'm engaged in an advanced course to further enhance these skills.
+
+---
+
+### 🏆 Certifications
+
+<p align="center">
+  <a href="https://github.com/Mahmoud-Younes/cv/blob/main/%D9%85%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87%20%D9%85%D9%86%D8%B5%D9%88%D8%B1%20.jpg?raw=true" target="_blank"><img src="https://github.com/Mahmoud-Younes/cv/blob/main/%D9%85%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87%20%D9%85%D9%86%D8%B5%D9%88%D8%B1%20.jpg?raw=true" width="200" alt="Eng. Abdullah Mansour - Flutter Applications Certificate"></a>
+</p>
+
+---
+
 ### GitHub Stats:
 
 <p align="center">
