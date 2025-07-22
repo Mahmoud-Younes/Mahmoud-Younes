@@ -50,6 +50,24 @@ Here are some of the key skills I leverage in mobile application development:
 
 ---
 
+### 🚀 Featured Projects
+
+Feel free to explore some of my key projects, showcasing my practical skills and problem-solving abilities:
+
+-   **[Project Name 1]**
+    -   **Description:** A brief overview of the project, its main features, and the problems it solves. Highlight the Flutter/Dart concepts and other technologies used.
+    -   **Tech Stack:** `Flutter`, `Dart`, `[State Management e.g., Bloc]`, `[Backend e.g., Firebase, Supabase]`, `[APIs]`
+    -   [GitHub Repository](YOUR_PROJECT_GITHUB_LINK_HERE)
+    -   [Live Demo / YouTube Video](YOUR_PROJECT_DEMO_OR_YOUTUBE_LINK_HERE)
+
+-   **[Project Name 2]**
+    -   **Description:** Another project description. What was your role? What did you learn?
+    -   **Tech Stack:** `Flutter`, `Dart`, `[Other relevant tech]`
+    -   [GitHub Repository](YOUR_PROJECT_GITHUB_LINK_HERE)
+    -   [Live Demo / YouTube Video](YOUR_PROJECT_DEMO_OR_YOUTUBE_LINK_HERE)
+
+---
+
 ### 🏆 Certifications
 
 <p align="center">
