@@ -34,12 +34,18 @@
 
 ---
 
-### 🚀 Projects & Hands-on Experience
+### 💡 My Core Skills
 
--   **Comprehensive Flutter Applications:** Developed various mobile applications from scratch, following a step-by-step approach under the guidance of **Eng. Abdullah Mansour**. This included understanding and implementing core concepts effectively.
--   **Flutter Fundamentals:** Solid foundation in Flutter basics and core principles, acquired through practical application with **Eng. Tharwat Samy**.
--   **Advanced Topics & Specific Modules:** Explored and implemented advanced Flutter concepts and specific modules, deepening my knowledge and skills with **Eng. Tharwat Samy**.
--   **Bloc & API Integration Project:** Successfully completed two projects focusing on **Bloc state management and API integration** with **Omar Ahmed**. Currently, I'm engaged in an advanced course to further enhance these skills.
+Here are some of the key skills I leverage in mobile application development:
+
+-   **Flutter & Dart:** Building cross-platform mobile applications with a focus on clean code and robust architecture.
+-   **State Management:** Proficient in **Bloc** for predictable state management, ensuring scalable and maintainable applications.
+-   **Backend Integration:** Experienced with **Firebase** for real-time databases, authentication, and cloud functions, and integrating with **REST APIs** for seamless data communication.
+-   **Database & Cloud Solutions:** Working with **Supabase** for powerful backend services including databases, authentication, and storage.
+-   **Version Control:** Daily use of **Git & GitHub** for collaborative development and code management.
+-   **UI/UX Implementation:** Crafting responsive and user-friendly interfaces, paying attention to design principles.
+-   **Problem Solving:** Aptitude for analyzing complex problems and developing efficient solutions.
+-   **Continuous Learning:** Always eager to learn new technologies and best practices in the mobile development ecosystem.
 
 ---
 
