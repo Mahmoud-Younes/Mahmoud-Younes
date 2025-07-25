@@ -54,7 +54,7 @@ Here are some of the key skills I leverage in mobile application development:
 
 Feel free to explore some of my key projects, showcasing my practical skills and problem-solving abilities:
 
--   **New_flutter**
+-   **tourism**
     -   **Description:** Developed an innovative mobile application for historical artifact recognition, powered by a custom-trained YOLOv8 AI model. The model was trained to classify and analyze 15 distinct types of artifacts, achieving a high accuracy of 96.5% (mAP@50). To ensure seamless functionality without an internet connection, the model was optimized and converted to TFLite. The application provides users with detailed, fixed information and a confidence score for each artifact, featuring advanced multi-object recognition capabilities to identify several artifacts within a single image..
     -   **Tech Stack:** `Flutter`, `Dart`, `yolov8`,`TensorFlow Lite`,`ai`
     -   [GitHub Repository](https://github.com/Mahmoud-Younes/new_flutter)
