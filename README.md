@@ -57,13 +57,13 @@ Feel free to explore some of my key projects, showcasing my practical skills and
 -   **New_flutter**
     -   **Description:** Developed an innovative mobile application for historical artifact recognition, powered by a custom-trained YOLOv8 AI model. The model was trained to classify and analyze 15 distinct types of artifacts, achieving a high accuracy of 96.5% (mAP@50). To ensure seamless functionality without an internet connection, the model was optimized and converted to TFLite. The application provides users with detailed, fixed information and a confidence score for each artifact, featuring advanced multi-object recognition capabilities to identify several artifacts within a single image..
     -   **Tech Stack:** `Flutter`, `Dart`, `yolov8`,`TensorFlow Lite`,`ai`
-    -   [GitHub Repository]([YOUR_PROJECT_GITHUB_LINK_HERE](https://github.com/Mahmoud-Younes/new_flutter))
+    -   [GitHub Repository](https://github.com/Mahmoud-Younes/new_flutter)
     
 
 -   **Exam-Zone**
     -   **Description:** Developed an educational application using Flutter with the primary goal of significantly reducing the time required for teachers to create and correct exams. The app leverages the DeepSeek API to generate both essay and multiple-choice questions and provides automated grading capabilities. It also features a dedicated account system for both teachers and students, creating an organized and efficient platform for educational management.
     -   **Tech Stack:** `Flutter`, `Dart`, `firebase storage` , `firebase auth` , `deepseek api` 
-    -   [GitHub Repository]([YOUR_PROJECT_GITHUB_LINK_HERE](https://github.com/sayodaa/exam-zone))
+    -   [GitHub Repository](https://github.com/sayodaa/exam-zone)
   
 
 ---
