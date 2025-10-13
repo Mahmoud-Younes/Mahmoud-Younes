@@ -90,12 +90,12 @@ Feel free to explore some of my key projects, showcasing my practical skills and
 
 ---
 
-### GitHub Stats:
+<!--### GitHub Stats:
 
-<p align="center">
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Younes&show_icons=true&theme=radical&hide_border=true" alt="Mahmoud Younes's GitHub stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-Younes&theme=radical&hide_border=true" alt="Mahmoud Younes's GitHub streak"/>
-</p>
+</p> -->
 
 <br>
 <a href="https://komarev.com/ghpvc/?username=Mahmoud-Younes&color=blueviolet">
