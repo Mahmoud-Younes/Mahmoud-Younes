@@ -20,7 +20,11 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mahmoud--younes/" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Younes-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="https://wa.me/+201116058653" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Younes-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
+  <a href="https://raw.githubusercontent.com/Mahmoud-Younes/cv/fbce27a81fb56b6a8de01b4b9d8c2d443109b434/Younes_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20My%20CV-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
